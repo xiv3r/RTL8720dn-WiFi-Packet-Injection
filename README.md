@@ -6,7 +6,7 @@ This tool has been made for educational and testing purposes only. Any misuse or
 
 ## Notes
 This repository is now intended to be used as a Git submodule.
-The testing code has been removed. Documentation can be found in `wifi_cust_tx.cpp`.
+The testing code has been removed. Documentation can be found in `packet-injection.cpp`.
 The story on how I have been able to discover these possibilities is available on my [Blog](https://tesa-klebeband.github.io).
 
 ## License

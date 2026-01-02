@@ -1,5 +1,5 @@
-#ifndef WIFI_CUST_TX
-#define WIFI_CUST_TX
+#ifndef PACKET_INJECTION_H
+#define PACKET_INJECTION_H
 
 #include <Arduino.h>
 
